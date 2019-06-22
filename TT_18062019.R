@@ -1,5 +1,8 @@
 bird_counts <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-18/bird_counts.csv")
 
+library(tidyverse)
+library(magrittr)
+
 str(bird_counts)
 View(bird_counts)
 
@@ -32,6 +35,7 @@ ggplot(data = Count_per_year_species[((a-1)*94 + 1):(b*94),],
   geom_line() + 
   labs(x = "Year", y = "Number Seen/Heard per Year", colour = "Species", 
        title = "Number of Each Species Seen/Heard per Year in Ontario, Canada")
+ggsave("TT_18062019.png")
 
 ggplot(data = Diff_count) + 
   geom_line(aes(x = seq_along(variation), y = variation))
