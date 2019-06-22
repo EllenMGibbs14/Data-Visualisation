@@ -34,7 +34,8 @@ ggplot(data = Count_per_year_species[((a-1)*94 + 1):(b*94),],
        aes(x = year, y = num_count, group = species, colour = species)) + 
   geom_line() + 
   labs(x = "Year", y = "Number Seen/Heard per Year", colour = "Species", 
-       title = "Number of Each Species Seen/Heard per Year in Ontario, Canada")
+       title = "Number of Each Species Seen/Heard per Year in Ontario, Canada",
+       subtitle = "Top Five in Variation")
 ggsave("TT_18062019.png")
 
 ggplot(data = Diff_count) + 
