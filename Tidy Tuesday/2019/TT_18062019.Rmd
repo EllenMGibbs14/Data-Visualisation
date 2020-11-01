@@ -1,8 +1,7 @@
 ---
-title: Tidy Tuesday, Week 25
+title: "Tidy Tuesday, Week 25 - 18-06-2019"
 author: Ellen Gibbs
-date: 18/06/2019
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r set-up hook, include=FALSE}
