@@ -2,9 +2,7 @@
 title: Tidy Tuesday, Week 25
 author: Ellen Gibbs
 date: 18/06/2019
-output: 
-  html_document:
-    css: "./../gitstyles.css"
+output: html_document
 ---
 
 ```{r set-up hook, include=FALSE}
