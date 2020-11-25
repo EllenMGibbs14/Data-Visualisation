@@ -7,7 +7,7 @@
 <!-- ![./Plots/TT_18062019_2.png](https://github.com/EllenMGibbs14/Data-Visualisation/blob/master/Tidy%20Tuesday/Plots/TT_18062019_2.png) -->
 
 <a href="https://github.com/EllenMGibbs14/Data-Visualisation/blob/master/Tidy%20Tuesday/Plots/TT_18062019.png">
-<img src="./Plots/TT_18062019.png" width="60%" />
+<img src="./Plots/TT_18062019.png" width="70%" />
 </a>
 
 ## 2020
