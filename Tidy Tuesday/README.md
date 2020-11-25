@@ -6,6 +6,8 @@
 
 <!-- ![./Plots/TT_18062019_2.png](https://github.com/EllenMGibbs14/Data-Visualisation/blob/master/Tidy%20Tuesday/Plots/TT_18062019_2.png) -->
 
-<img src="https://github.com/EllenMGibbs14/Data-Visualisation/blob/master/Tidy%20Tuesday/Plots/TT_18062019_2.png" width="50%" />
+<a href="https://github.com/EllenMGibbs14/Data-Visualisation/blob/master/Tidy%20Tuesday/Plots/TT_18062019_2.png">
+<img src="./Plots/TT_18062019_2.png" width="60%" />
+</a>
 
 ## 2020
